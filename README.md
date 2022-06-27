@@ -3,6 +3,7 @@
 Rutas de la api: 
 
 appresidencias/backend/usuarios.php 
+//
 appresidencias/backend/residencias.php 
 
 
